@@ -1,0 +1,184 @@
+{
+  "version": 1,
+  "base_track": "Señorita",
+  "base_artist": "Shawn Mendes、Camila Cabello",
+  "createdAt": "2025-12-01T10:56:29.663127Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Señorita",
+      "artist": "Jake Owen feat. Lele Pons",
+      "has_synced": true,
+      "path": "select/01_Señorita_Jake_Owen_feat._Lele_Pons.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Señorita",
+      "artist": "Jake Owen",
+      "has_synced": true,
+      "path": "select/02_Señorita_Jake_Owen.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Senorita",
+      "artist": "Lil Tecca",
+      "has_synced": true,
+      "path": "select/03_Senorita_Lil_Tecca.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Señorita",
+      "artist": "Arca",
+      "has_synced": true,
+      "path": "select/04_Señorita_Arca.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Señorita",
+      "artist": "Christophe feat. Sébastien Tellier",
+      "has_synced": true,
+      "path": "select/05_Señorita_Christophe_feat._Sébastien_Tellier.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Señorita",
+      "artist": "Tenacious D",
+      "has_synced": true,
+      "path": "select/06_Señorita_Tenacious_D.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Senorita",
+      "artist": "Puff Daddy & The Family",
+      "has_synced": true,
+      "path": "select/07_Senorita_Puff_Daddy_&_The_Family.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Señorita",
+      "artist": "Puff Daddy & the Family",
+      "has_synced": true,
+      "path": "select/08_Señorita_Puff_Daddy_&_the_Family.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Señorita",
+      "artist": "Shawn Mendes feat. Camila Cabello",
+      "has_synced": true,
+      "path": "select/09_Señorita_Shawn_Mendes_feat._Camila_Cabello.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Señorita",
+      "artist": "Shawn Mendes & Camila Cabello",
+      "has_synced": true,
+      "path": "select/10_Señorita_Shawn_Mendes_&_Camila_Cabello.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Señorita",
+      "artist": "Justin Timberlake",
+      "has_synced": true,
+      "path": "select/11_Señorita_Justin_Timberlake.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Señorita With a Necklace of Tears",
+      "artist": "Paul Simon",
+      "has_synced": true,
+      "path": "select/12_Señorita_With_a_Necklace_of_Tears_Paul_Simon.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Senorita torero",
+      "artist": "Ivan Cattaneo",
+      "has_synced": false,
+      "path": "select/13_Senorita_torero_Ivan_Cattaneo.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Señorita",
+      "artist": "Enrico Ruggeri & The Bankrobber",
+      "has_synced": false,
+      "path": "select/14_Señorita_Enrico_Ruggeri_&_The_Bankrobber.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Señorita",
+      "artist": "Vasco Rossi",
+      "has_synced": true,
+      "path": "select/15_Señorita_Vasco_Rossi.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Señorita",
+      "artist": "Vince Staples",
+      "has_synced": true,
+      "path": "select/16_Señorita_Vince_Staples.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Señorita",
+      "artist": "Shawn Mendes & Camila Cabello",
+      "has_synced": true,
+      "path": "select/17_Señorita_Shawn_Mendes_&_Camila_Cabello.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Senorita",
+      "artist": "赤西仁",
+      "has_synced": false,
+      "path": "select/pl_01_Senorita_赤西仁.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Señorita",
+      "artist": "赤西仁",
+      "has_synced": false,
+      "path": "select/pl_02_Señorita_赤西仁.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Señorita",
+      "artist": "赤西仁",
+      "has_synced": false,
+      "path": "select/pl_03_Señorita_赤西仁.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Señorita",
+      "artist": "赤西仁",
+      "has_synced": false,
+      "path": "select/pl_04_Señorita_赤西仁.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Senorita",
+      "artist": "赤西仁",
+      "has_synced": false,
+      "path": "select/pl_05_Senorita_赤西仁.txt"
+    }
+  ]
+}
